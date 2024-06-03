@@ -1,0 +1,51 @@
+* {
+    font-family: montserrat;
+}
+
+body {
+    background: #f1fbff;
+}
+
+.pp {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: blue;
+}
+
+.sectionpadding {
+    margin: 200px auto;
+    padding-top: 100px;
+
+}
+
+.loginBtn {
+    background-color: #1877f2;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    width: 100%;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Arial';
+    font-weight: 100;
+    transition: 0.5s;
+}
+
+.loginBtn:hover {
+    background-color: #4257b2;
+}
+
+.forget {
+    margin: 15px auto;
+    text-decoration: none;
+    color: #1877f2;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.forgot {
+    padding: 20px;
+
+}
